@@ -142,3 +142,10 @@ p.lead {
   object-fit: contain;
   margin: 0 auto;
 }
+
+.img-profile-mobile {
+  width: 9rem;
+  height: 9rem;
+  object-fit: cover;
+  border: 0.4rem solid rgba(0, 0, 0, 0.15);
+}
